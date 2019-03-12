@@ -1,5 +1,5 @@
-# Supercharge
-:zap: Supercharge your static website development.
+# :zap: Supercharge
+Supercharge your static website development.
 
 ### Installation
 ```
